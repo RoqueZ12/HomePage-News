@@ -17,8 +17,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: https://github.com/RoqueZ12/Newsletter-sign-up-form-
-- Live Site URL: https://roquez12.github.io/Newsletter-sign-up-form-/
+- Solution URL: https://github.com/RoqueZ12/homepage-news
+- Live Site URL: https://roquez12.github.io/homepage-news/
 
 ## My process
 
